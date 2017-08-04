@@ -1,4 +1,4 @@
-# Clojure langaguge learning notes
+# Clojure language learning notes
 
 This is my attempt to learn the clojure language.
 
@@ -7,7 +7,7 @@ Links:
 - https://clojure.org/
 - http://tryclj.com/ (browser-based Clojure REPL)
 - https://leiningen.org/
-
+- https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Clojure.html   This is really useful
    
 Just need JVM, and the clojure jar to get a repl: https://clojure.org/community/downloads
 
@@ -50,3 +50,6 @@ Hello, World!
 ```
 
 Woohooo!
+
+
+## Code golf - simplex
